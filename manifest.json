@@ -1,0 +1,15 @@
+{
+   "fileLocations": [
+       {
+           "URIs": [
+               "s3://project-3aws/global.csv"
+           ]
+       }
+   ],
+   "globalUploadSettings": {
+       "format": "CSV",
+       "delimiter": ",",
+       "textqualifier": "\"",
+       "containsHeader": "true"
+   }
+}
