@@ -1,5 +1,9 @@
 # Global Student Performance & Lifestyle Analysis 
 
+[![AWS S3](https://img.shields.io/badge/AWS-S3-F28D35?logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Amazon QuickSight](https://img.shields.io/badge/Amazon-QuickSight-3B48CC?logo=amazon&logoColor=white)](https://aws.amazon.com/quicksight/)
+[![Dataset: Global Student Performance](https://img.shields.io/badge/Dataset-Global_Student_Performance-green)](https://github.com/your-username/your-repo-name)
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 https://github.com/user-attachments/assets/b9cedb79-2045-453e-a0ea-dbe5b05cd7df
 
